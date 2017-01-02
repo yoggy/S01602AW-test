@@ -16,8 +16,8 @@ How to use
     
     void setup() {
       Wire.begin(5, 4); //SCL, SDA
-      so1602awgb_init();
-      so1602awgb_print("hello world");
+      so1602aw_init();
+      so1602aw_print("hello world");
     }
     void loop() {}
 
