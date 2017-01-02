@@ -11,7 +11,7 @@
 //     #include <Wire.h>
 //
 //     void setup() {
-//       Wire.begin(5, 4); //SCL, SDA
+//       Wire.begin(5, 4); //SDA, SCL
 //       so1602aw_init();
 //       so1602aw_print("hello world");
 //     }

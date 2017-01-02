@@ -2,7 +2,7 @@ SO1602AW-test.ino
 ====
 A simple library for SO1602AWWB, SO1602AWGB, SO1602AWYB.
 
-![SO1602AWYB](img01.jpg)
+![SO1602AWYB](img1.jpg)
 
 OLED Character Display Module 16x2
 - http://akizukidenshi.com/catalog/g/gP-08277/ (White)
@@ -34,11 +34,11 @@ OLED Character Display Module Pin Assign
     8 SDA IN (I2C data)
     9 SDA OUT (I2Cdata)
     10～14 NC
-       ※ short (1,3,4) and (8,9)...![](img02.png)
+       ※ short (1,3,4) and (8,9)...
 
-![SO1602AWYB](img02.jpg)
+![SO1602AWYB](img2.jpg)
 
-![SO1602AWYB](img03.jpg)
+![SO1602AWYB](img3.jpg)
 
 Copyright and license
 ----

@@ -16,7 +16,7 @@
 
 void setup() {
   INIT_WIO_NODE();
-  Wire.begin(PORT1_D0, PORT1_D1); //SCL(Yellow), SDA (White)
+  Wire.begin(PORT1_D1, PORT1_D0); //SDA (White), SCL(Yellow)
   so1602aw_init();
   so1602aw_print("hello SO1602AWGB!!!!12345678");
 }
