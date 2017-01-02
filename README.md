@@ -43,6 +43,6 @@ OLED Character Display Module Pin Assign
 Copyright and license
 ----
 
-Copyright (c) 2016 yoggy
+Copyright (c) 2017 yoggy
 
 Released under the [MIT license](LICENSE.txt)
