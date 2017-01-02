@@ -33,8 +33,8 @@ OLED Character Display Module Pin Assign
     7 SCL (I2C clock)
     8 SDA IN (I2C data)
     9 SDA OUT (I2Cdata)
-    10Å`14 NC
-       Å¶ short (1,3,4) and (8,9)...![](img02.png)
+    10ÔΩû14 NC
+       ‚Äª short (1,3,4) and (8,9)...![](img02.png)
 
 ![SO1602AWYB](img02.jpg)
 
