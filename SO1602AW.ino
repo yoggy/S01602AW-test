@@ -51,7 +51,7 @@ void so1602aw_clear() {
 }
 
 void so1602aw_on() {
-  so1602aw_cmd(0x0F);
+  so1602aw_cmd(0x0c); // 0x08+(display on/off->0x40)+(cursor on/off->0x02)+(blink on/off->0x01)
 }
 
 void so1602aw_contrast(const uint8_t &val) {
